@@ -1,0 +1,14 @@
+[
+    {
+        "userId": 1,
+        "hour": 20,
+        "min": 0,
+        "chanId": 1
+    },
+    {
+        "userId": 4,
+        "hour": 22,
+        "min": 30,
+        "chanId": 5
+    }
+]
